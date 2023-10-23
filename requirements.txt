@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+cvzone
+tensorflow
+math
+time
+numpy
+os
